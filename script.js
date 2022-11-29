@@ -15,21 +15,20 @@
 
 
 
-let index = ['supra', 'gtr', 'skyline', 'bmw', 'ok']
+// let index = ['supra', 'gtr', 'skyline', 'bmw', 'ok']
 
-function findIndex(arr, str){
+// function findIndex(arr, str){
 
-   count =0
+//   let count =0
 
-   for (let i = 0; i < arr.length; i++) {
-      if(arr[i] !== str){
+//    for (let i = 0; i < arr.length; i++) {
+//       if(arr[i] == str){
 
-         count++
-         return count
-      }
- 
-   }
-    
-}
+//          return i
+         
+//       }   
+//    }
+   
+// }
 
-console.log(findIndex( index, 'gtr'));
+// console.log(findIndex( index, 'gtr'));
